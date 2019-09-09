@@ -1,2 +1,2 @@
 # psd_pcap
-psdファイルからpcapファイルに変換するプログラム
+SmartRF Protocol Packet Snifferで取得したZigbeeのパケットキャプチャデータ(psdファイル)をPCAPファイルに変換するプログラム。
